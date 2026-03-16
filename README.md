@@ -1,2 +1,3 @@
 # AuthSystem
-laravel project for KSU
+---
+PHP project for KSU
